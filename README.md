@@ -31,7 +31,7 @@ El juego se controla de las siguientes maneras:
 
 - **Otros Controles:**
   - Tecla Enter: Pausa el juego.
-  - Tecla I: Activa/Desactiva la visualización de la velocidad (Velocidad) y precisión (Precisión).
+  - Tecla I: Activa/Desactiva la visualización de la velocidad (Speed) y precisión (Accuracy).
 
 El objetivo del juego es golpear la pelota con las paletas y evitar que la pelota pase al lado opuesto de la pantalla.
 
